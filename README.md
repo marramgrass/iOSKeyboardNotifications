@@ -1,4 +1,4 @@
-This is a little toy to discover which iOS keybaord notifications are sent when. We were particularly interested in what notifications are sent on the iPad during rotation and when using a split or undocked keyboard.
+This is a little toy to discover which iOS keyboard notifications are sent when. We were particularly interested in what notifications are sent on the iPad during rotation and when using a split or undocked keyboard.
 
 Best used during debugging to let you poke into the info dictionaries on the notifications.
 
